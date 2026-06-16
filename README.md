@@ -12,7 +12,7 @@ I specialize in turning data into insights and ensuring software quality through
 
 ## 🚀 About Me
 
-- 🎓 Currently completing an **AEC in Business Intelligence and Data Visualization**
+- 🎓 Completed this year an **AEC in Business Intelligence and Data Visualization** program.
 - 🧠 Background in **IT, software support, and QA (20+ years experience in tech environment)**
 - 📊 Passionate about **data-driven decision making and visualization**
 - 🧪 Interested in **Manual QA Testing and Software Quality Assurance**
