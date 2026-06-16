@@ -33,7 +33,7 @@ I specialize in turning data into insights and ensuring software quality through
 - Manual Testing (test cases, test plans, bug reports)
 - Functional testing
 - Regression testing
-- Test documentation (Excel / Jira-style reporting)
+- Test documentation (Excel / Azure-DevOps, Jira-style reporting)
 
 ### 🧠 Other Skills
 - Data cleaning & transformation
