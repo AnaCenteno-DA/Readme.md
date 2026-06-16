@@ -109,3 +109,8 @@ I am actively building real-world projects to demonstrate practical skills and r
 ---
 
 ⭐ Thank you for visiting my profile!
+
+## 🔙 Return to Main Profile
+
+[![Back to Profile](https://img.shields.io/badge/Back%20to%20GitHub-Profile-blue?style=for-the-badge)](https://github.com/AnaCenteno-DA)
+
