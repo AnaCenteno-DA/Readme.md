@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Ana Centeno
 
-## 📊 Data Analyst | 🧪 QA Manual Tester | 📈 Business Intelligence Student
+## 📊 Data Analyst | 🧪 QA Manual Tester | 📈 Business Intelligence Analyst
 
 Welcome to my GitHub portfolio.  
 I am a **bilingual (English, French, Spanish) data and QA enthusiast** currently building my career in **Data Analytics, Business Intelligence, and Software Quality Assurance** in Canada.
@@ -80,8 +80,8 @@ I am particularly interested in **public sector, government, and data-driven org
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/ana-centeno-tech/
+- 📧 Email: centenoaj@outlook.com
 - 📍 Laval, Quebec (Canada)
 
 ---
