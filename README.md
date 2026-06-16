@@ -59,10 +59,10 @@ I specialize in turning data into insights and ensuring software quality through
 
 ## 🎯 What I’m Currently Working On
 
-- 📊 Building a professional **Data Analyst portfolio (Power BI + Excel)**
+- 📊 Building a professional 
 - 🧪 Learning **QA Automation fundamentals (starting soon)**
 - 📈 Strengthening SQL and data modeling skills
-- 📌 Preparing for **entry-level Data Analyst / QA roles in Canada**
+- 📌 Preparing for **entry-level Data Analyst /Intermediate - QA roles**
 
 ---
 
@@ -70,9 +70,9 @@ I specialize in turning data into insights and ensuring software quality through
 
 I am seeking opportunities as:
 
-- 📊 Data Analyst (Junior / Entry Level)
-- 🧪 QA Analyst / Manual Tester
-- 📈 Business Intelligence Analyst (Junior)
+- 📊 Data Analyst (Entry Level)
+- 🧪 QA Analyst / Manual Tester (Intermediate)
+- 📈 Business Intelligence Analyst (Entry Level)
 
 I am particularly interested in **public sector, government, and data-driven organizations**.
 
